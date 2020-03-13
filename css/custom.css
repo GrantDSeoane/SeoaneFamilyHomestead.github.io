@@ -27,9 +27,14 @@ body{
   background-color: white;
   border-radius: 5px;
   padding: 25px;
-  margin: 5px;
+  margin: 15px;
+  box-shadow: 5px;
 }
 
 .item > h2 {
+  text-align: center;
+}
+
+.item > p {
   text-align: center;
 }
