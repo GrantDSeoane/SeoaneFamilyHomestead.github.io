@@ -14,10 +14,11 @@ body{
   background-size: cover;
   position: relative;
   border-radius: 5px;
+  margin-top: 15px;
 }
 
 .nav-link {
-  color: white;
+  color: blue;
 }
 
 .nav-link:hover {
