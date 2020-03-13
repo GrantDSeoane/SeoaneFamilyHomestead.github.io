@@ -13,4 +13,23 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  border-radius: 5px;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: red;
+}
+.item {
+  background-color: white;
+  border-radius: 5px;
+  padding: 25px;
+  margin: 5px;
+}
+
+.item > h2 {
+  text-align: center;
 }
